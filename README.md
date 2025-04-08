@@ -2,7 +2,7 @@
 
 A responsive job board built with Next.js and Tailwind CSS that fetches and displays job listings from a mock API, with filtering and dark mode support.
 
-![Job Board Screenshot](/job-board/public/screenshot.png)
+![Job Board Screenshot](/public/screenshot.png)
 
 🛠 Technical Approach
 This project demonstrates modern web development practices with:
