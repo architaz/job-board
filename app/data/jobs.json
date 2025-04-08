@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "TechCorp",
+      "location": "San Francisco, CA",
+      "salary": "₹90,000 - ₹120,000",
+      "tags": ["Remote", "Full-Time"],
+      "description": "We're looking for a skilled Frontend Developer to join our team. You'll work with React, Next.js, and Tailwind CSS to build beautiful, responsive user interfaces."
+    },
+    {
+      "id": 2,
+      "title": "UX Designer",
+      "company": "DesignHub",
+      "location": "New York, NY",
+      "salary": "₹85,000 - ₹110,000",
+      "tags": ["Hybrid", "Full-Time"],
+      "description": "Join our design team to create amazing user experiences. You'll collaborate with product managers and engineers to deliver intuitive interfaces."
+    },
+    {
+      "id": 3,
+      "title": "Backend Engineer Intern",
+      "company": "DataSystems",
+      "location": "Remote",
+      "salary": "₹30 - ₹35/hr",
+      "tags": ["Remote", "Internship"],
+      "description": "Great opportunity for computer science students to gain experience with Node.js, databases, and cloud services."
+    },
+    {
+        "id": 4,
+        "title": "Data Analyst",
+        "company": "AnalyticsPro",
+        "location": "Austin, TX",
+        "salary": "₹70,000 - ₹90,000",
+        "tags": ["On-Site", "Full-Time"],
+        "description": "We are looking for a Data Analyst to help us make data-driven decisions. Proficiency in SQL and Python is required."
+      },
+      {
+        "id": 5,
+        "title": "Product Manager",
+        "company": "InnovateX",
+        "location": "Remote",
+        "salary": "₹100,000 - ₹130,000",
+        "tags": ["Remote", "Full-Time"],
+        "description": "Lead product development from ideation to launch. Experience with Agile methodologies is a plus."
+      }
+  ]
+  
